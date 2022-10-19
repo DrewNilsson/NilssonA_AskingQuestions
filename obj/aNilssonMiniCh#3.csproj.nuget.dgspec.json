@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAskingQuestions/aNilssonMiniCh#3/aNilssonMiniCh#3.csproj": {}
+    "/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/aNilssonMiniCh#3.csproj": {}
   },
   "projects": {
-    "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAskingQuestions/aNilssonMiniCh#3/aNilssonMiniCh#3.csproj": {
+    "/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/aNilssonMiniCh#3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAskingQuestions/aNilssonMiniCh#3/aNilssonMiniCh#3.csproj",
+        "projectUniqueName": "/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/aNilssonMiniCh#3.csproj",
         "projectName": "aNilssonMiniCh#3",
-        "projectPath": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAskingQuestions/aNilssonMiniCh#3/aNilssonMiniCh#3.csproj",
-        "packagesPath": "/Users/drewnilsson/.nuget/packages/",
-        "outputPath": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAskingQuestions/aNilssonMiniCh#3/obj/",
+        "projectPath": "/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/aNilssonMiniCh#3.csproj",
+        "packagesPath": "/Users/marcelrodriguez/.nuget/packages/",
+        "outputPath": "/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/drewnilsson/.nuget/NuGet/NuGet.Config"
+          "/Users/marcelrodriguez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

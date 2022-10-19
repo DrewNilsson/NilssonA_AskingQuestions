@@ -28,3 +28,18 @@
 /Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAskingQuestions/aNilssonMiniCh#3/obj/Debug/net6.0/aNilssonMiniCh#3.pdb
 /Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAskingQuestions/aNilssonMiniCh#3/obj/Debug/net6.0/aNilssonMiniCh#3.genruntimeconfig.cache
 /Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAskingQuestions/aNilssonMiniCh#3/obj/Debug/net6.0/ref/aNilssonMiniCh#3.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/bin/Debug/net6.0/aNilssonMiniCh#3
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/bin/Debug/net6.0/aNilssonMiniCh#3.deps.json
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/bin/Debug/net6.0/aNilssonMiniCh#3.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/bin/Debug/net6.0/aNilssonMiniCh#3.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/bin/Debug/net6.0/aNilssonMiniCh#3.pdb
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/Debug/net6.0/aNilssonMiniCh#3.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/Debug/net6.0/aNilssonMiniCh#3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/Debug/net6.0/aNilssonMiniCh#3.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/Debug/net6.0/aNilssonMiniCh#3.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/Debug/net6.0/aNilssonMiniCh#3.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/Debug/net6.0/aNilssonMiniCh#3.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/Debug/net6.0/refint/aNilssonMiniCh#3.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/Debug/net6.0/aNilssonMiniCh#3.pdb
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/Debug/net6.0/aNilssonMiniCh#3.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/aNilssonMiniCh-3/obj/Debug/net6.0/ref/aNilssonMiniCh#3.dll
